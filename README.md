@@ -5,8 +5,8 @@
 - Jira, Asana, Trello, MS Project, MS Dynamics- ERP, RAID logs, MS Excel, Google Sheets, MS Visio, MS Word, MS PowerPoint, Business Analysis, Budgeting, Forecasting, Risk Identification & Management, Process Improvement, and Stakeholder Management.
 
 ### Education
-- M.Sc. Artificial Intelligence – Department of Computer Science (2023) @ Brunel University London
-- BSc. Electronic and Electrical Engineering	(2015) @ Obafemi Awolowo University, Nigeria
+- M.Sc. Artificial Intelligence, Department of Computer Science         - Brunel University London (2023) 
+- BSc. Electronic and Electrical Engineering	                           - Obafemi Awolowo University, Nigeria (2015)  
   - [Publication](https://www.researchgate.net/publication/287935737_Development_of_an_Arduino-Based_Trainer_for_Building_a_Wireless_Sensor_Network_in_an_Undergraduate_Teaching_Laboratory)
 
 ### Data/AI Projects
