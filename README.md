@@ -10,15 +10,9 @@
   - [Publication](https://www.researchgate.net/publication/287935737_Development_of_an_Arduino-Based_Trainer_for_Building_a_Wireless_Sensor_Network_in_an_Undergraduate_Teaching_Laboratory)
 
 ### Data/AI Projects
-**Responsible AI Project: Responsible AI (RAI) for Detecting Obfuscated Malware (using Microsoft RAI Toolkit)**
+**Responsible AI Project: Responsible AI (RAI) for Detecting Obfuscated Malware**
 - The interest of my research was to foster acceptance and increase the widespread utilization of AI tools in fighting cybercrimes by contributing to the ongoing endeavours to provide insights into predictions of AI models.
-- I employed the novel interactive Responsible AI(RAI) toolkit developed by Microsoft to enhance model interpretability, adapting it for the task of obfuscated malware detection.
-- To achieve my aim, the following objectives were met:
-  - Exploratory feature analysis to visualize the relationships between the different malware classes/categories and the malware features.
-  - Implementation and comparison of the performances of machine learning models to detect and classify obfuscated malware using the CIC-Malmem-2022 dataset.
-  - Implemention and exploration of the capabilities of the newly launched RAI dashboard/toolkit to provide an interpretation for the best-performing ML classifier.
-  - Implementation of a SHAP-based dashboard (ExplainerDashboard) to compare the performance of the RAI dashboard.
-    
+
 **Predictive Data Analysis Project**
 - Predicting the revenue per room (average price per room) made or forfeited by the hotel given other customer reservation details including if there was a cancellation or not.
 
@@ -62,6 +56,12 @@
 - IT Support Engineer (Intern)
   - Supported the IT helpdesk manager by receiving and logging complaints. Performed troubleshooting, diagnosed, and resolved issues related to the internal network and system infrastructure, printers and photocopy machines.
   - Was responsible for setting up new staff with IT appliances which involved installing new operating systems on laptops, antivirus and applications as required for the job role. Also ensured LAN (Local Area Network) was available and functional for every user.
+ 
+### Certifications
+- Project Management Professional (PMP), Project Management Institute (PMI) (Aug 2019)
+- Professional Scrum Master 1, Scrum.org (Jul 2022)
+
+
 
 
 
