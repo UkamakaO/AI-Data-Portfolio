@@ -4,5 +4,4 @@ logo: /assests/Picture.jpg
 # description: text below image
 description: AI/Data Science Portfolio
 #show_downloads: true
-show_downloads: true
 theme: jekyll-theme-minimal
