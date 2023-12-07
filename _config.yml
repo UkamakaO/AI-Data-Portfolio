@@ -2,5 +2,7 @@ title: Ukamaka Oragwu
 #logo: /assests/img/headshot_circle.png
 logo: /assests/Picture.jpg
 # description: text below image
+description: AI/Data Science Portfolio
 #show_download: true
+show_download: true
 theme: jekyll-theme-minimal
