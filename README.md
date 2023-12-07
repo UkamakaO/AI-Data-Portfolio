@@ -5,15 +5,25 @@
 - Jira, Asana, Trello, MS Project, MS Dynamics- ERP, RAID logs, MS Excel, Google Sheets, MS Visio, MS Word, MS PowerPoint, Business Analysis, Budgeting, Forecasting, Risk Identification & Management, Process Improvement, and Stakeholder Management.
 
 ### Education
-- Brunel University London, M.Sc. Artificial Intelligence – Department of Computer Science (2023)
-- Obafemi Awolowo University, Nigeria, 	BSc. Electronic and Electrical Engineering	(2015)
+- M.Sc. Artificial Intelligence – Department of Computer Science (2023) @ Brunel University London
+- BSc. Electronic and Electrical Engineering	(2015) @ Obafemi Awolowo University, Nigeria
+  - [Publication](https://www.researchgate.net/publication/287935737_Development_of_an_Arduino-Based_Trainer_for_Building_a_Wireless_Sensor_Network_in_an_Undergraduate_Teaching_Laboratory)
 
 ### Data/AI Projects
-**Responsible AI Project**
-
+**Responsible AI Project: Responsible AI (RAI) for Detecting Obfuscated Malware (using Microsoft RAI Toolkit)**
+- The interest of my research was to foster acceptance and increase the widespread utilization of AI tools in fighting cybercrimes by contributing to the ongoing endeavours to provide insights into predictions of AI models.
+- I employed the novel interactive Responsible AI(RAI) toolkit developed by Microsoft to enhance model interpretability, adapting it for the task of obfuscated malware detection.
+- To achieve my aim, the following objectives were met:
+  - Exploratory feature analysis to visualize the relationships between the different malware classes/categories and the malware features.
+  - Implementation and comparison of the performances of machine learning models to detect and classify obfuscated malware using the CIC-Malmem-2022 dataset.
+  - Implemention and exploration of the capabilities of the newly launched RAI dashboard/toolkit to provide an interpretation for the best-performing ML classifier.
+  - Implementation of a SHAP-based dashboard (ExplainerDashboard) to compare the performance of the RAI dashboard.
+    
 **Predictive Data Analysis Project**
+- Predicting the revenue per room (average price per room) made or forfeited by the hotel given other customer reservation details including if there was a cancellation or not.
 
 **Data Visualization Project**
+- A tableau dashboard was created as an infographic tool to tell two stories for two research questions asked by a marketing manager of a games-producing company. The dashboard view was redesigned in Power BI for comparison of how I achieved the dashboard to answer the research questions using both methods (Tableau and Power BI).
 
 
 ### Work Experience
