@@ -10,13 +10,13 @@
   - [Publication](https://www.researchgate.net/publication/287935737_Development_of_an_Arduino-Based_Trainer_for_Building_a_Wireless_Sensor_Network_in_an_Undergraduate_Teaching_Laboratory)
 
 ### Data/AI Projects
-**Responsible AI Project: Responsible AI (RAI) for Detecting Obfuscated Malware**
+**Responsible AI Research Project: Responsible AI (RAI) for Detecting Obfuscated Malware**
 - The interest of my research was to foster acceptance and increase the widespread utilization of AI tools in fighting cybercrimes by contributing to the ongoing endeavours to provide insights into predictions of AI models.
 
-**Predictive Data Analysis Project**
+**Predictive Data Analysis for Hotel Reservation**
 - Predicting the revenue per room (average price per room) made or forfeited by the hotel given other customer reservation details including if there was a cancellation or not.
 
-**Data Visualization Project**
+**Data Visualization for Global Video Game Sales**
 - A tableau dashboard was created as an infographic tool to tell two stories for two research questions asked by a marketing manager of a games-producing company. The dashboard view was redesigned in Power BI for comparison of how I achieved the dashboard to answer the research questions using both methods (Tableau and Power BI).
 
 
