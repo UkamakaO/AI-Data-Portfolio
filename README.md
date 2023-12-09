@@ -18,7 +18,7 @@
 
 **Data Visualization for Global Video Game Sales**
 - A tableau dashboard was created as an infographic tool to tell two stories for two research questions asked by a marketing manager of a games-producing company. The dashboard view was redesigned in Power BI for comparison of how I achieved the dashboard to answer the research questions using both methods (Tableau and Power BI).
-
+- [Project](https://github.com/UkamakaO/Data-Visualization-of-Global-Video-Game-Sales)
 
 ### Work Experience
 **Keystone Bank Ltd - Lagos, Nigeria (08/2021 to 09/2022)**
