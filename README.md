@@ -15,7 +15,7 @@
 
 **Predictive Data Analysis for Hotel Reservation**
 - Predicting the revenue per room (average price per room) made or forfeited by the hotel given other customer reservation details including if there was a cancellation or not.
-
+- [Project](https://github.com/UkamakaO/Predictive-Data-Analysis-on-Hotel-Reservation)
 **Data Visualization for Global Video Game Sales**
 - A tableau dashboard was created as an infographic tool to tell two stories for two research questions asked by a marketing manager of a games-producing company. The dashboard view was redesigned in Power BI for comparison of how I achieved the dashboard to answer the research questions using both methods (Tableau and Power BI).
 - [Project](https://github.com/UkamakaO/Data-Visualization-of-Global-Video-Game-Sales)
