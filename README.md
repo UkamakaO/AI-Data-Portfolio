@@ -12,6 +12,7 @@
 ### Data/AI Projects
 **Responsible AI Research Project: Responsible AI (RAI) for Detecting Obfuscated Malware**
 - The interest of my research was to foster acceptance and increase the widespread utilization of AI tools in fighting cybercrimes by contributing to the ongoing endeavours to provide insights into predictions of AI models.
+- Publication ongoing.
 
 **Predictive Data Analysis for Hotel Reservation**
 - Predicting the revenue per room (average price per room) made or forfeited by the hotel given other customer reservation details including if there was a cancellation or not.
