@@ -2,7 +2,7 @@
 
 ### Technical Skills/Tools/packages
 - Python, R, MySQL, Tableau, Power BI, GitHub, Numpy, Pandas, Keras, Scipy, Sklearn, Matplotlib, Tensor Flow, Scikit-learn, GPU.
-- Jira, Asana, Trello, MS Project, MS Dynamics- ERP, RAID logs, MS Excel, Google Sheets, MS Visio, MS Word, MS PowerPoint, Business Analysis, Budgeting, Forecasting, Risk Identification & Management, Process Improvement, and Stakeholder Management.
+- Jira, Asana, Trello, MS Project, MS Dynamics- ERP, RAID logs, MS Excel, Google Sheets, MS Visio, MS Word, MS PowerPoint, Business Analysis, Budgeting, Forecasting, Risk Identification & Management, Process Improvement, and Stakeholder Management, Strategic thinking, Problem Solving.
 
 ### Education
 - M.Sc. Artificial Intelligence, Department of Computer Science         - Brunel University London (2023) 
