@@ -7,7 +7,7 @@
 ### Education
 - M.Sc. Artificial Intelligence, Department of Computer Science         - Brunel University London (2023) 
 - BSc. Electronic and Electrical Engineering	                           - Obafemi Awolowo University, Nigeria (2015)  
-  - [Publication](https://www.researchgate.net/publication/287935737_Development_of_an_Arduino-Based_Trainer_for_Building_a_Wireless_Sensor_Network_in_an_Undergraduate_Teaching_Laboratory)
+  - [Publication](http://www.aascit.org/journal/archive2?journalId=915&paperId=3060))
 
 ### Data/AI Projects
 **Responsible AI Research Project: Responsible AI (RAI) for Detecting Obfuscated Malware**
