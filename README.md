@@ -24,7 +24,7 @@
 
 ### Work Experience
 **Keystone Bank Ltd - Lagos, Nigeria (08/2021 to 09/2022)**
-- Enterprise Project Manager for Strategy & Implementation
+- **Enterprise Project Manager for Strategy & Implementation**
   - Conducted feasibility studies on project proposals for the selection of projects that aligned with business strategic objectives.
   - Managed projects by using Risk/Action/Issue (RAID) logs & MS Project plans. Achieved projects’ objectives over 90% of the time.
   - Coordinated cross-functional teams (including virtual teams) for successful project delivery.
@@ -40,7 +40,7 @@
   - Saved the company £27k in the year 2019 by applying cost reduction methods and negotiation with vendors, thereby increasing profit margins.
   - Managed projects in Networking (Routing & Switching) Infrastructure, Structured Cabling, Data Centre Infrastructure, Business Voice and Video, IP Telephony, Call Centre & Contact Centre
 
-- Project Assistant (06/2017 to 06/2018)
+- Project Cooridnator (06/2017 to 06/2018)
   - Performed record-keeping for all company projects of over 30 years and standardized the filing system to increase efficiency.
   - Performed supporting roles to the project managers by maintaining spreadsheets to track project issues' resolution to prevent/minimize delays.
   - Worked closely with the procurement/inventory teams to ensure project resources were made available on time.
