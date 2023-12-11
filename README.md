@@ -32,7 +32,7 @@
   - Managed projects on creating business portals, developing mobile applications, optimizing the security operation centre, API integration, software as a service, etc.
 
 **Resourcery Plc - Lagos, Nigeria (06/2017 to 07/2021)**
-- Project Manager/ PMO Lead (06/2018 to 07/2021)
+- **Project Manager/ PMO Lead (06/2018 to 07/2021)**
   - Coordinated the management of > 70 projects (valued at approximately £1.26m) to actualize business goals.
   - Managed individual projects using Gantt charts, risk and issues logs, and cost sheets. Facilitated regular meetings with the project team and reported progress to the senior management team.
   - Created and maintained spreadsheets for the department's weekly, monthly, and quarterly performance reporting.
