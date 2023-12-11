@@ -25,10 +25,11 @@
 ### Work Experience
 **Keystone Bank Ltd - Lagos, Nigeria (08/2021 to 09/2022)**
 - **Enterprise Project Manager for Strategy & Implementation**
-  - Conducted feasibility studies on project proposals for the selection of projects that aligned with business strategic objectives.
-  - Managed projects by using Risk/Action/Issue (RAID) logs & MS Project plans. Achieved projects’ objectives over 90% of the time.
+  - Conducted feasibility studies on project proposals to make recommendations to management on projects that aligned with business strategic objectives.
+  - Liaised with business owners to create Business Requirements Documents (BRD) for selected projects. These served as served as reference documents for project goals and expectations.
+  - Managed all project phases to sign-off using tools like Risk/Action/Issue (RAID) logs & MS project plans. Achieved projects’ objectives over 90% of the time.
   - Coordinated cross-functional teams (including virtual teams) for successful project delivery.
-  - Prepared business requirements documents which served as reference documents for project goals and expectations.
+  - Conducted post-implementation reviews on completed projects. 
   - Managed projects on creating business portals, developing mobile applications, optimizing the security operation centre, API integration, software as a service, etc.
 
 **Resourcery Plc - Lagos, Nigeria (06/2017 to 07/2021)**
