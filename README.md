@@ -12,6 +12,7 @@
 ### Data/AI Projects
 **A Machine Learning Approach for Detecting Cybersecurity Vulnerabilities in the Internet of Medical Things.**
 - This study leverages Machine Learning (ML) to enhance the security of medical IoT devices by identifying vulnerabilities at different operational states and understanding the types of attacks they are most susceptible to.
+- [Project](https://github.com/UkamakaO/ML-Vulnerability-Assesment-for-IoMT)
 
 **Responsible AI Research Project: Responsible AI (RAI) for Detecting Obfuscated Malware**
 - The interest of my research was to foster acceptance and increase the widespread utilization of AI tools in fighting cybercrimes by contributing to the ongoing endeavours to provide insights into predictions of AI models.
