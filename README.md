@@ -1,7 +1,7 @@
 # AI/Data Sicence/Project Management
 
 ### Technical Skills/Tools/packages
-- Python, R, Latex MySQL, Tableau, Power BI, GitHub, Numpy, Pandas, Keras, Scipy, Sklearn, Matplotlib, Tensor Flow, Scikit-learn, GPU.
+- Python, R, Latex, MySQL, Tableau, Power BI, GitHub, Numpy, Pandas, Keras, Scipy, Sklearn, Matplotlib, Tensor Flow, Scikit-learn, GPU.
 - Jira, Asana, Trello, MS Project, MS Dynamics- ERP, RAID logs, MS Excel, Google Sheets, MS Visio, MS Word, MS PowerPoint, Business Analysis, Budgeting, Forecasting, Risk Identification & Management, Process Improvement, Stakeholder Management, Strategic thinking, Problem Solving, Facilitation, etc.
 
 ### Education
