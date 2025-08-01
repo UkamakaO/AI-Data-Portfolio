@@ -7,7 +7,6 @@
 ### Education
 - M.Sc. Artificial Intelligence, Department of Computer Science         - Brunel University London (2023) 
 - BSc. Electronic and Electrical Engineering	                           - Obafemi Awolowo University, Nigeria (2015)  
-  - [Publication](http://www.aascit.org/journal/archive2?journalId=915&paperId=3060)
 
 ### Data/AI Projects
 **A Machine Learning Approach for Detecting Cybersecurity Vulnerabilities in the Internet of Medical Things.**
